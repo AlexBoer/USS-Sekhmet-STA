@@ -1,7 +1,7 @@
 ---
 tags:
   - Location/Region
-aliases: 
+aliases:
 cssclasses:
   - cards
 ---
